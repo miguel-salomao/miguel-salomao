@@ -1,15 +1,10 @@
 ### Hi there 👋
 
-I'm Miguel Elias, Gerente de Configuração e Mudança e sou graduado em Sistemas de Informação e pós-graduado em Arquitetura Cloud Cumpunting, tenho mais de 10 anos de experiência na área TI. 
-. 
-
-I love contributing to the community with [blog posts](http://miguel), [videos](http://youtube.ccom), and [books](). 
-
+I'm Miguel Elias, Configuration and Change Manager and Software Engineer. Graduated in Information Systems and postgraduate in Cloud Computing Architecture, I have more than 10 years of experience in IT.
 ____
 
 ### 📝 Recent Articles
--
-
+In addition to my practical work, I have a real passion for teaching. I believe that sharing knowledge is the way to multiply wisdom.
 ____
 
 ## ⚡ Technologies
